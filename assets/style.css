@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-image: url(../assets/img/Design\ sem\ nome\ \(5\).png);
+}
+
+#container-fluid .a{
+    margin-left: 10%!;
+}
+    
+.blockquote {
+    color: white;
+}
+
+footer{
+    color: white;
+}
